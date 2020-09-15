@@ -5,6 +5,6 @@ Recent versions of FreeDOS no longer have dedicated JOIN and SUBST external comm
 
 Copy these JOIN and SUBST executables from FreeDOS 1.0 into the /FDOS/BIN/ directory.
 
-These are the versions from FreeDOS 1.0, from 2006, obtained from https://ftp.gwdg.de/pub/misc/freedos/files/distributions/1.0/
+These are the versions from FreeDOS 1.0, from 2006, obtained from https://ftp.gwdg.de/pub/misc/freedos/files/distributions/1.0/ and they inherit its open source license.
 
 
